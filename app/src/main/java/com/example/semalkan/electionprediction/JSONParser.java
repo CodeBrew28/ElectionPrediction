@@ -17,6 +17,7 @@ import org.json.JSONObject;
 
 import android.util.Log;
 
+//https://www.learn2crack.com/2013/10/android-asynctask-json-parsing-example.html
 public class JSONParser {
 
     static InputStream is = null;
